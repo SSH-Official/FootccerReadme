@@ -22,7 +22,7 @@ Footccer 프로그램 프로젝트
 <div>  
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
   <img src="https://img.shields.io/badge/heidisql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/docker desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
 </div></br>
 
 ###### 협업관리
