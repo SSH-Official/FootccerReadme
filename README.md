@@ -27,7 +27,13 @@ Footccer 프로그램 프로젝트
 
 ###### 협업관리
 <div>  
-  <img src="https://img.shields.io/badge/google drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">      
+  <img src="https://img.shields.io/badge/google drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+</div></br>
+<div>  
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">   
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">   
+  <img src="https://img.shields.io/badge/sourcetree-0052CC ?style=for-the-badge&logo=sourcetree&logoColor=white">
+  
 </div></br>
 
 ## 주요기능
