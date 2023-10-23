@@ -37,30 +37,26 @@ Footccer 프로그램 프로젝트
 </div></br>
 
 ## 주요기능
-* 
-* 운동 같이할 사람 파티 모집
-* ELO(레이팅)에 따른 경기 매칭 기능
-* 
+* 운동 같이할 사람 파티 모집, 참가 기능
+* 경기 결과에 따른 ELO 계산
+* 개인 통계
 
-#### 프로그램 스크린샷
-![login](https://github.com/SSH-Official/FootccerReadme/assets/144085903/83f2a02a-f509-4bbb-be12-a9a887e151ed)
-![sign In](https://github.com/SSH-Official/FootccerReadme/assets/144085903/a069b624-9ece-4cba-9cf3-e0116477b89a)
-![mainmenu](https://github.com/SSH-Official/FootccerReadme/assets/144085903/519d21eb-9952-4f2f-9ead-c13c9a643dff)
-![myparty](https://github.com/SSH-Official/FootccerReadme/assets/144085903/f8bcd26c-e18c-45e7-a2d0-a962c19f6d0c)
-![partySearch](https://github.com/SSH-Official/FootccerReadme/assets/144085903/c8943e98-9054-47c9-9548-705a488f45c0)
-![partyJoin](https://github.com/SSH-Official/FootccerReadme/assets/144085903/d6beda0e-3e6e-4db3-9328-cd9d864e0b95)
-![createParty](https://github.com/SSH-Official/FootccerReadme/assets/144085903/5c8cd3c0-7c06-46e4-840a-4c8d35c5beba)
-![record](https://github.com/SSH-Official/FootccerReadme/assets/144085903/e2b4ec1e-7b77-4fef-88a9-9a46b8a01fff)
-![insertStat](https://github.com/SSH-Official/FootccerReadme/assets/144085903/3a01833c-399c-4c60-80f0-679f2c8189c1)
-![mypage](https://github.com/SSH-Official/FootccerReadme/assets/144085903/bae4262e-8bf2-4ce7-986e-b51ff33ef1aa)
-![config](https://github.com/SSH-Official/FootccerReadme/assets/144085903/fe0be915-34e4-4d29-a6a2-548207237f65)
-
-
-
-
-
-
-
+<details>
+<summary>스크린샷 보기</summary>
+  
+![login](https://github.com/SSH-Official/FootccerReadme/assets/144085903/83f2a02a-f509-4bbb-be12-a9a887e151ed) </br>
+![sign In](https://github.com/SSH-Official/FootccerReadme/assets/144085903/a069b624-9ece-4cba-9cf3-e0116477b89a) </br>
+![mainmenu](https://github.com/SSH-Official/FootccerReadme/assets/144085903/519d21eb-9952-4f2f-9ead-c13c9a643dff) </br>
+![myparty](https://github.com/SSH-Official/FootccerReadme/assets/144085903/f8bcd26c-e18c-45e7-a2d0-a962c19f6d0c) </br>
+![partySearch](https://github.com/SSH-Official/FootccerReadme/assets/144085903/c8943e98-9054-47c9-9548-705a488f45c0) </br>
+![partyJoin](https://github.com/SSH-Official/FootccerReadme/assets/144085903/d6beda0e-3e6e-4db3-9328-cd9d864e0b95) </br>
+![createParty](https://github.com/SSH-Official/FootccerReadme/assets/144085903/5c8cd3c0-7c06-46e4-840a-4c8d35c5beba) </br>
+![record](https://github.com/SSH-Official/FootccerReadme/assets/144085903/e2b4ec1e-7b77-4fef-88a9-9a46b8a01fff) </br>
+![insertStat](https://github.com/SSH-Official/FootccerReadme/assets/144085903/3a01833c-399c-4c60-80f0-679f2c8189c1) </br>
+![mypage](https://github.com/SSH-Official/FootccerReadme/assets/144085903/bae4262e-8bf2-4ce7-986e-b51ff33ef1aa) </br>
+![config](https://github.com/SSH-Official/FootccerReadme/assets/144085903/fe0be915-34e4-4d29-a6a2-548207237f65) </br>
+  
+</details>
 
 
 ## 배포 + 사양
